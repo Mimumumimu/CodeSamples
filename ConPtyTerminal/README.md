@@ -37,6 +37,7 @@ ConPtyTerminal/
 3. 自分のフォームに、`MainForm.cs` を見ながら、数行を足します。
 
 詳しくは、記事に書いています。  
+https://qiita.com/Mimumumimu/items/faf040f7aacfbe57c966  
 
 ## 見本を動かす
 
