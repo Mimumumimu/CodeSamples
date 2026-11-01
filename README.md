@@ -5,7 +5,7 @@
 
 | フォルダ | 内容 |
 |---|---|
-| [ConPtyTerminal](ConPtyTerminal) | C# のアプリの中に、DOS 窓のようなターミナルを出す。ConPTY と xterm.js を使います。 |
+| [ConPtyTerminal](ConPtyTerminal) | 既存の C# のアプリに、DOS 窓のようなターミナルを足して、ボタンからコマンドを送る。ConPTY と xterm.js を使います。 |
 
 ## 使い方
 

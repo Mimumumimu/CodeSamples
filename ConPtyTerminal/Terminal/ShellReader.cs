@@ -1,4 +1,8 @@
+#nullable enable
+using System;
+using System.IO;
 using System.Text;
+using System.Threading.Tasks;
 
 /// <summary>
 /// シェルの出力を読み続けて、文字列にして知らせる。
