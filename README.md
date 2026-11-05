@@ -6,6 +6,7 @@
 | フォルダ | 内容 | 記事 |
 |---|---|---|
 | [ConPtyTerminal](ConPtyTerminal) | 既存の C# のアプリに、DOS 窓のようなターミナルを足して、ボタンからコマンドを送る。ConPTY と xterm.js を使います。 | [Qiita](https://qiita.com/Mimumumimu/items/faf040f7aacfbe57c966) |
+| [CredentialManagerSample](CredentialManagerSample) | 既存の C# のアプリで、データベースのパスワードを、設定ファイルに書かず、Windows の資格情報マネージャーに保存する。 | 準備中 |
 
 ## 使い方
 
