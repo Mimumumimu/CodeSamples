@@ -58,6 +58,9 @@ https://qiita.com/Mimumumimu/items/faf040f7aacfbe57c966
 `WinUI3/TerminalView.cs` は、XAML を持たない `UserControl` です。  
 名前空間を付けていないので、`Grid` にコードで入れます。  
 
+詳しくは、記事に書いています。  
+https://qiita.com/Mimumumimu/items/69a1edb0e6af6686f47a  
+
 ## 見本を動かす
 
 Visual Studio で `ConPtyTerminal.slnx` を開いて、動かしたいほうのプロジェクトを、スタートアップに指定して F5 を押します。  
