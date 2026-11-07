@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="ConPtyTerminal.csproj" />
+  <Project Path="WinForms/ConPtyTerminalWinForms.csproj" />
+  <Project Path="WinUI3/ConPtyTerminalWinUI3.csproj" />
 </Solution>
